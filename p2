@@ -1,5 +1,5 @@
 git init
- msdfcnrel.ifjrl/dvm,d.x x
+
 git config --global user.name "Polarapu Prasad"
 git config --global user.email "devopstraining2015@gmail.com"
 
@@ -9,7 +9,7 @@ git config --list
 
 touch file1
 ls
-ls -dm,fvnkdjrdilgjmrfd.,v d
+ls -a
 git status
 git add file1
 git status
@@ -21,7 +21,7 @@ git show cid
 touch file3 file4 file5
 git status
 git add file3 file4 file5
-orslfkreoi5tgyu6olk4./ez,svc z
+or
 git add *
 or
 git add .
@@ -35,7 +35,7 @@ git show cid
 
 =================================
 git clone https://github.com/polarapu/batch69.git
-lsd;slgoy56[p';ygl.eS?X<as/lghk
+ls
 cd batch69
 touch prasad
 git status
@@ -54,7 +54,7 @@ touch name
 git status
 git add name
 git status
-git commit -m "test commit" namdfkljgbiy6p56otkgwe;slxmas.,vcbfwhiee
+git commit -m "test commit" name
 git status
 git log
 git push
@@ -64,7 +64,12 @@ git push
 
 mkdir prasad-dir
 cd prasad-dir
-touch a1 a2 jkrfheoi5tuw;oelkfjcwb35kutly3wkj
+touch a1 a2 a3
+cd ..
+git add *
+git commit -m "dir commit"
+git push
+
 -------------------------
 Touch, Cat, Vi
 ---------------
@@ -79,7 +84,7 @@ Cat
 cat > file5
 ....
 ....
-ctrl+doe5tiy6p[oyi5p
+ctrl+d
 
 cat file5
 
